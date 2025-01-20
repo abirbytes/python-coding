@@ -9,7 +9,7 @@ else(condition): [used when elif and if not working]
 Use 4 gaps for before statement as it comes in if known as indentation'''
 #Rules of python are known as syntax
                 #Example Code: Traffic Lights
-light= input("The color of light is :")
+'''light= input("The color of light is :")
 if(light=="Red"):
    print("Stop")
 elif(light=="Green"):
@@ -25,7 +25,10 @@ elif(Marks >="90" and Marks < "95"):
 elif(Marks>="85" and Marks < "90"):
    print("A-")
 else:
-   print("Better luck next time")
-
-   
-
+   print("Better luck next time")'''
+         #variable = <val1> if <condition> else <val2>
+food = input("food : ")
+eat = "yes" if (food=="cake") else "no"
+print(eat)
+         #Another example : <str1> if <condition1 or 2> else <str2>
+print("Wow") if food=="sweets" or food=='choco' else print("Not wow")
