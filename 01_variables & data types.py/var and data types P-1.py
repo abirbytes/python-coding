@@ -55,4 +55,7 @@ Name = input("Name:") # Quotes are used for string remaining constant
 Age = int(input("Age:")) #int
 Weight = float(input("Weight:"))
 print("My name is", Name, "and my age is", Age, "Also, my weight is" , Weight ,"Kgs")
-
+#Identifiers are always a-z or A - Z and cant start with digits, and identifiers are functions and variables
+# ** is a valid arithmetic operator in python as a**b = a^b
+#Logical operators in python = and, or, not
+#"in" is a membership operator in python
