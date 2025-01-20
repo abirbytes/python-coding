@@ -4,6 +4,17 @@ if(condition):
        Statement1
 elif(condition):
       Statement2
-else(condition):
-      StatementN'''
+else(condition): [used when elif and if not working]
+      StatementN
+Use 4 gaps for before statement as it comes in if known as indentation'''
+#Rules of python are known as syntax
+                #Example Code: Traffic Lights
+light= input("The color of light is :")
+if(light=="Red"):
+   print("Stop")
+elif(light=="Green"):
+   print("Go")
+else:
+   print("Light is not working")
+   
 
