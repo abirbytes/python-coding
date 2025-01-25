@@ -7,3 +7,4 @@ print("She is very pretty\nHer name is Aysha")
 print("She is very pretty\nHer name is \"Aysha\"") #\"Aysha\" can be used to print a letter of a string in double quotes 
 #Exceptions>>>>>>>>>>
 print("She is very pretty\nHer name is 'Aysha'") #'Aysha' can be used to print a letter of a string in single quotes quotes 
+print("Dear Harry, \n\tThis python course is nice. \nThanks!")#\t is used to give an indent or space equal to tab
