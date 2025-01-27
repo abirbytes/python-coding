@@ -15,6 +15,7 @@ print(l)
 value = l.pop(2)
 print(value)#Prints the value that is removed
 print(l.pop(2))
+print(l.remove("Samonnoy"))
 
 
 
