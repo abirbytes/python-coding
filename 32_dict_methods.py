@@ -1,3 +1,4 @@
+d={}#empty dictionary
 marks={
    "Abir": 100,
    "Lamia" : 90,
