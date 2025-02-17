@@ -1,5 +1,7 @@
 #Rule No.1>>>
 l=["Abir","Samonnoy","Lamia","Debadrita"]
+e,f,g,h=l
+print(e,f,g,h)#Unpacks the list
 l.append("Sahara")# Adds sahara at the end of the list
 print(l)
 #Rule No.2>>>
@@ -15,7 +17,8 @@ print(l)
 value = l.pop(2)
 print(value)#Prints the value that is removed
 print(l.pop(2))
-print(l.remove("Samonnoy"))
+l.remove("Samonnoy")
+print(l)
 
 
 

@@ -1,6 +1,6 @@
 s1={1,5,32,54,5,5,"Abir"}
 s2={2,5,32,84,5,7,"Kabir"}
-#print(s.union(s2))
+#print(s1.union(s2))
 # >>>
 # #Gives a set with all the elements of the sets without repeating 
 

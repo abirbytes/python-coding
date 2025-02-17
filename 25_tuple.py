@@ -1,3 +1,4 @@
+#Tuples are basically immutable form of lists
 a=(1,)#One element tuple. if we dont use the comma after 1 python will take it as an integer
 print(type(a))
 b=()#Empty Tuple
@@ -12,4 +13,4 @@ print(len(c))#To print the length of the tuple
 print(c[0:2])#slices the tuple
 e,f,g,h,i,j= c
 print(e,f,g,h,i,j)#stores the tuples into variables by unpacking it
-print(e*2)
+print(f*3)

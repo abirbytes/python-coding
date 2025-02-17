@@ -1,0 +1,10 @@
+l_m=[]
+f1=input("The name of the fruit:")
+l_m.append(f1)
+f2=input("The name of the fruit:")
+l_m.append(f2)
+f3=input("The name of the fruit:")
+l_m.append(f3)
+f4=input("The name of the fruit:")
+l_m.append(f4)
+print(l_m)
