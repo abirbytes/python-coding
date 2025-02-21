@@ -1,7 +1,16 @@
+Main Rules:-
+> Strings are immutable
+> Tuples are immutable
+> Lists are mutable
+> Dictonaries are mutable
+> Sets are mutable
+
 No.1>>>Press Ctrl + / (Windows/Linux) or Cmd + / (Mac).
 This will automatically add a # to the start of each selected line.
 
 No.2>>>Press alt+up/down to move lines in code
 
 No.3>>>Press shift+alt+downward to copy paste the same line
+
+No.4>>>Press alt a to use multiple cursosrs
 
